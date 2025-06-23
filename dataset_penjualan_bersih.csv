@@ -1,0 +1,150 @@
+Tanggal Transaksi,Nama Produk,Kategori,Jumlah,Harga Satuan
+2024-03-21,kaos,Pakaian,2,100000
+2024-01-21,sepatu,Alas Kaki,0,50000
+2024-01-26,celana,Pakaian,0,0
+2024-02-22,tas,Aksesori,0,50000
+2024-01-03,sepatu,Alas Kaki,0,50000
+2024-03-23,kaos,Pakaian,1,100000
+2024-02-09,sepatu,Alas Kaki,1,150000
+2024-03-13,tas,Aksesori,0,0
+2024-03-27,kemeja,Pakaian,0,75000
+2024-02-08,tas,Aksesori,0,100000
+2024-03-28,kemeja,Pakaian,5,125000
+2024-01-07,sepatu,Alas Kaki,2,0
+2024-03-23,kemeja,Pakaian,4,150000
+2024-01-16,kemeja,Pakaian,4,125000
+2024-03-20,sepatu,Alas Kaki,0,125000
+2024-02-16,sepatu,Alas Kaki,5,100000
+2024-03-27,kemeja,Pakaian,2,75000
+2024-02-11,sepatu,Alas Kaki,2,100000
+2024-03-08,kaos,Pakaian,0,150000
+2024-02-04,topi,Aksesori,0,150000
+2024-03-20,kemeja,Pakaian,0,125000
+2024-03-02,sepatu,Alas Kaki,5,0
+2024-03-05,topi,Aksesori,3,75000
+2024-02-13,kemeja,Pakaian,0,0
+2024-03-09,sepatu,Alas Kaki,0,0
+2024-01-16,kemeja,Pakaian,5,150000
+2024-09-03,celana,Pakaian,1,100000
+2024-03-11,sepatu,Alas Kaki,1,100000
+2024-01-13,kaos,Pakaian,0,50000
+2024-01-02,kemeja,Pakaian,5,100000
+2024-02-04,sepatu,Alas Kaki,4,150000
+2024-03-20,kemeja,Pakaian,0,125000
+2024-12-02,kemeja,Pakaian,3,100000
+2024-03-18,tas,Aksesori,2,75000
+2024-03-22,sepatu,Alas Kaki,0,0
+2024-02-18,sepatu,Alas Kaki,4,0
+2024-02-15,sepatu,Alas Kaki,0,75000
+2024-03-01,sepatu,Alas Kaki,1,75000
+2024-03-01,sepatu,Alas Kaki,3,0
+2024-11-02,kaos,Pakaian,0,150000
+2024-03-28,kaos,Pakaian,3,100000
+2024-03-18,topi,Aksesori,2,150000
+2024-03-08,kemeja,Pakaian,0,100000
+2024-02-17,kaos,Pakaian,4,150000
+2024-03-01,kemeja,Pakaian,4,150000
+2024-02-29,tas,Aksesori,0,125000
+2024-03-15,kemeja,Pakaian,0,50000
+2024-01-08,topi,Aksesori,0,125000
+2024-01-27,sepatu,Alas Kaki,1,50000
+2024-02-10,sepatu,Alas Kaki,0,50000
+2024-03-07,sepatu,Alas Kaki,2,50000
+2024-01-06,sepatu,Alas Kaki,4,75000
+2024-01-19,celana,Pakaian,0,0
+2024-02-03,tas,Aksesori,3,125000
+2024-02-26,celana,Pakaian,0,125000
+2024-03-24,kaos,Pakaian,3,100000
+2024-01-02,sepatu,Alas Kaki,0,125000
+2024-03-30,sepatu,Alas Kaki,4,0
+2024-11-02,kemeja,Pakaian,5,0
+2024-01-02,topi,Aksesori,0,0
+2024-03-09,sepatu,Alas Kaki,0,50000
+2024-03-28,kaos,Pakaian,1,50000
+2024-03-26,topi,Aksesori,3,150000
+2024-07-02,tas,Aksesori,5,150000
+2024-01-31,topi,Aksesori,2,0
+2024-01-02,kemeja,Pakaian,2,125000
+2024-02-22,celana,Pakaian,0,50000
+2024-02-16,topi,Aksesori,0,150000
+2024-02-23,topi,Aksesori,3,0
+2024-07-03,sepatu,Alas Kaki,4,50000
+2024-02-03,kaos,Pakaian,0,0
+2024-04-01,sepatu,Alas Kaki,3,125000
+2024-01-15,sepatu,Alas Kaki,5,0
+2024-01-24,sepatu,Alas Kaki,2,75000
+2024-03-15,kaos,Pakaian,1,0
+2024-01-03,sepatu,Alas Kaki,0,150000
+2024-01-01,kemeja,Pakaian,3,125000
+2024-04-02,kemeja,Pakaian,1,100000
+2024-01-02,kaos,Pakaian,5,50000
+2024-03-27,celana,Pakaian,0,0
+2024-02-01,sepatu,Alas Kaki,2,50000
+2024-02-28,sepatu,Alas Kaki,4,125000
+2024-03-04,sepatu,Alas Kaki,5,0
+2024-02-05,kemeja,Pakaian,0,75000
+2024-01-22,sepatu,Alas Kaki,0,0
+2024-03-14,kemeja,Pakaian,1,50000
+2024-01-22,kemeja,Pakaian,4,125000
+2024-02-04,kemeja,Pakaian,1,50000
+2024-01-15,celana,Pakaian,5,50000
+2024-02-15,sepatu,Alas Kaki,5,50000
+2024-03-10,topi,Aksesori,0,125000
+2024-01-10,kaos,Pakaian,0,75000
+2024-01-15,sepatu,Alas Kaki,1,75000
+2024-03-14,kaos,Pakaian,0,100000
+2024-02-19,celana,Pakaian,0,100000
+2024-01-17,sepatu,Alas Kaki,4,100000
+2024-03-23,topi,Aksesori,4,125000
+2024-03-16,sepatu,Alas Kaki,4,0
+2024-02-25,sepatu,Alas Kaki,1,50000
+2024-01-25,kaos,Pakaian,0,75000
+2024-02-21,kemeja,Pakaian,2,50000
+2024-01-30,sepatu,Alas Kaki,5,150000
+2024-05-03,kaos,Pakaian,0,125000
+2024-02-24,kemeja,Pakaian,2,75000
+2024-01-02,sepatu,Alas Kaki,3,125000
+2024-12-01,topi,Aksesori,1,0
+2024-01-13,kemeja,Pakaian,0,50000
+2024-05-02,kaos,Pakaian,0,125000
+2024-01-01,sepatu,Alas Kaki,1,150000
+2024-02-22,kemeja,Pakaian,0,50000
+2024-01-23,celana,Pakaian,5,0
+2024-03-27,kaos,Pakaian,3,0
+2024-02-05,tas,Aksesori,2,150000
+2024-12-03,kaos,Pakaian,4,0
+2024-02-19,kaos,Pakaian,3,125000
+2024-02-12,topi,Aksesori,0,0
+2024-12-01,kemeja,Pakaian,0,150000
+2024-02-24,topi,Aksesori,2,125000
+2024-03-27,kaos,Pakaian,3,100000
+2024-03-24,kaos,Pakaian,3,150000
+2024-02-24,kemeja,Pakaian,0,150000
+2024-12-01,tas,Aksesori,0,0
+2024-01-06,kaos,Pakaian,4,0
+2024-02-12,kemeja,Pakaian,0,150000
+2024-02-26,sepatu,Alas Kaki,1,0
+2024-09-03,celana,Pakaian,0,50000
+2024-01-10,topi,Aksesori,2,100000
+2024-01-30,sepatu,Alas Kaki,2,0
+2024-03-29,kemeja,Pakaian,3,0
+2024-01-31,kemeja,Pakaian,2,0
+2024-01-19,kaos,Pakaian,1,0
+2024-03-22,tas,Aksesori,5,100000
+2024-02-29,kaos,Pakaian,0,150000
+2024-02-16,tas,Aksesori,0,0
+2024-02-19,sepatu,Alas Kaki,0,125000
+2024-01-14,kemeja,Pakaian,5,125000
+2024-03-29,celana,Pakaian,3,0
+2024-03-14,sepatu,Alas Kaki,3,0
+2024-02-04,sepatu,Alas Kaki,1,100000
+2024-03-01,sepatu,Alas Kaki,0,125000
+2024-03-15,kaos,Pakaian,3,0
+2024-01-31,tas,Aksesori,2,150000
+2024-01-26,kaos,Pakaian,0,125000
+2024-03-22,kemeja,Pakaian,5,75000
+2024-01-03,sepatu,Alas Kaki,5,150000
+2024-01-13,celana,Pakaian,5,50000
+2024-03-29,sepatu,Alas Kaki,0,150000
+2024-02-05,kemeja,Pakaian,2,50000
+2024-01-16,sepatu,Alas Kaki,3,100000
