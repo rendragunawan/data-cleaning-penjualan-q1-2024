@@ -26,5 +26,5 @@ Proyek ini merupakan bagian dari latihan portofolio sebagai calon data analyst. 
 - Jupyter Notebook
 
 ## ✍️ Catatan
-Proyek ini merupakan bagian dari proses belajar dengan pendekatan _learn by doing_, bertujuan untuk memperkuat pemahaman dasar data cleaning yang sering ditemui oleh seorang data analyst.
+Proyek ini merupakan bagian dari proses belajar , bertujuan untuk memperkuat pemahaman dasar data cleaning yang sering ditemui oleh seorang data analyst.
 
