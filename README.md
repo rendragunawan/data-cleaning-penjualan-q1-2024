@@ -1,19 +1,30 @@
-# 🧼 Data Cleaning: Penjualan Q1 2024
+# 🧼 Data Cleaning Penjualan Q1 2024
 
-Proyek ini bertujuan untuk membersihkan data penjualan yang belum rapi menggunakan Python (Pandas) di Jupyter Notebook.
+Proyek ini merupakan bagian dari latihan portofolio sebagai calon data analyst. Dataset yang digunakan adalah data penjualan triwulan pertama 2024 (Q1), dan proyek ini berfokus pada proses pembersihan data menggunakan Python dan Pandas di Jupyter Notebook.
 
-## 🛠️ Langkah Cleaning
-- Format tanggal tidak konsisten
-- Nama produk tidak seragam (huruf besar-kecil)
-- Duplikat baris
-- Nilai kosong di kolom `Jumlah` dan `Harga Satuan`
+## 🎯 Tujuan
+- Membersihkan dataset mentah dari masalah umum seperti format tanggal tidak seragam, data duplikat, dan nilai kosong.
+- Menyiapkan dataset agar dapat digunakan untuk analisis lanjutan (visualisasi, prediksi, dll).
 
-## 📁 File
-- `dataset_penjualan_kotor.csv`: data mentah
-- `dataset_penjualan_bersih.csv`: data setelah dibersihkan
-- `data-cleaning-penjualan.ipynb`: proses cleaning
+## 📁 Struktur File
+| File                          | Deskripsi                                      |
+|------------------------------|------------------------------------------------|
+| `dataset_penjualan_kotor.csv` | Dataset mentah sebelum dibersihkan             |
+| `dataset_penjualan_bersih.csv`| Dataset yang telah dibersihkan menggunakan Pandas |
+| `data-cleaning-penjualan.ipynb` | Notebook proses cleaning data langkah demi langkah |
 
-## 💡 Tools
+## 🔧 Proses Cleaning
+- Format tanggal diseragamkan ke `YYYY-MM-DD`
+- Nama produk diubah menjadi lowercase
+- Nilai kosong di kolom `Jumlah` dan `Harga Satuan` diisi dengan `0`
+- Baris duplikat dihapus
+- Dataset hasil dibersihkan dan disimpan sebagai `.csv`
+
+## 📚 Tools yang Digunakan
 - Python
 - Pandas
 - Jupyter Notebook
+
+## ✍️ Catatan
+Proyek ini merupakan bagian dari proses belajar dengan pendekatan _learn by doing_, bertujuan untuk memperkuat pemahaman dasar data cleaning yang sering ditemui oleh seorang data analyst.
+
