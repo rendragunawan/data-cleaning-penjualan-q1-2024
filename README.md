@@ -1,3 +1,1 @@
-# Data Cleaning Penjualan Q1 2024
-
-Repositori ini berisi proses pembersihan data penjualan menggunakan Python.
+[README.md](https://github.com/user-attachments/files/20863359/README.md)
